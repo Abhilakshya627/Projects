@@ -1,3 +1,6 @@
 [submodule "Phishing-Website-Detection"]
 	path = Phishing-Website-Detection
 	url = https://github.com/Abhilakshya627/Phishing-Website-Detection.git
+[submodule "Malware-Detection"]
+	path = Malware-Detection
+	url = https://github.com/Abhilakshya627/Malware-Detection.git
