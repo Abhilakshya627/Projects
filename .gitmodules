@@ -4,3 +4,6 @@
 [submodule "Malware-Detection"]
 	path = Malware-Detection
 	url = https://github.com/Abhilakshya627/Malware-Detection.git
+[submodule "VPay"]
+	path = VPay
+	url = https://github.com/Abhilakshya627/VPay.git
