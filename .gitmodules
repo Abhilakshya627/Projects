@@ -7,3 +7,6 @@
 [submodule "VPay"]
 	path = VPay
 	url = https://github.com/Abhilakshya627/VPay.git
+[submodule "Time-Complexity-Analyzer"]
+	path = Time-Complexity-Analyzer
+	url = https://github.com/Abhilakshya627/Time-Complexity-Analyzer.git
